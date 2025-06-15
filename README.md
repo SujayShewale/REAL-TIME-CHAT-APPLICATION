@@ -4,7 +4,6 @@ Built with create-react-app, expressjs, socketIO and HarperDB.
 
 ## Output :
 
-![Image](https://github.com/user-attachments/assets/d6e9d066-1c9b-4af6-bf83-e6763b1892bf)
 
 ![Image](https://github.com/user-attachments/assets/d07d9367-d73b-4557-a967-1321c386fd88)
 
